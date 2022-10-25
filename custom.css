@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+.navbar {
+  font-family: calmetta, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+	background-color: #171717 !important; 
+} 
+.nav-link {
+  color: #fff !important;
+  transition: all .3s ease-in-out;
+}
+.nav-link:hover, .nav-link:focus {
+  color: #0dcaf0 !important;
+}
+
+h1, h3, h4, h5 {
+  font-family: mokoko, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+h2 {
+font-family: mokoko, serif;
+  font-weight: 500;
+  font-style: normal;
+	color: #02A3C1;
+}
+body, p {
+  font-family: calmetta, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.card-text {
+  font-family: calmetta, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+	background-color: #ffffff;
+}
+img {
+}
+a {
+	color: #101935;
+}
+a:hover {
+	color: #0E4749;
+	transition: all .6s ease-out;
+}
+a:visited {
+	color: #EF95CC;
+}
+button {
+  font-family: calmetta, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.breadcrumb, breadcrumb
+{
+	 font-family: calmetta, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+footer {
+  font-family: calmetta, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	background-color: #1B2024;
+  color: #fff;	
+}
+footer svg:hover {
+  fill: #D0F4FC;
+	transform: scale(1.3);
+  transition: all ease-in-out;
+}
+.vice {
+  color: #AC5891;
+  font-style: italic;
+}
+.cbc {
+  color: #BFC866;
+  font-style: italic;
+}
+.dig {
+  color: #29BAD9;
+  font-style: italic;
+}
+.flamingos {
+  color: #D75650;
+  font-style: italic;
+}
+.europe {
+  color: #6B7E2A;
+  font-style: italic;
+}
+.game {
+  color: #EA8819;
+  font-style: italic;
+}
+.dove {
+  color: #7E8E07;
+  font-style: italic;
+}
+.bike {
+  color: #F2CC5D;
+  font-style: italic;
+}
+.garden {
+  color: #2466A1;
+  font-style: italic;
+}
+.wind-up {
+  color: #2466A1;
+  font-style: italic;
+}
+.offer {
+	font-family: calmetta, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+bi {
+	color: white;
+}
